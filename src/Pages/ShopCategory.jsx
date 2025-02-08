@@ -3,6 +3,7 @@ import './CSS/ShopCatagory.css'
 import { ShopContext } from "../Context/ShopContext"
 import dropdown_icon from '../Components/assets/dropdown_icon.png'
 import Item from "../Components/Item/Item"
+import { Link } from "react-router-dom"
 
 
 export default function ShopCategory(props){
@@ -28,9 +29,7 @@ export default function ShopCategory(props){
                 }
             })}
         </div>
-        <div className="shopcategory-loadmore">
-            Explore More
-        </div>
+       
        </div>
     )
 }

@@ -34,18 +34,3 @@
     row-gap: 100px;
     margin-bottom: 100px;
 }
-.shopcategory-loadmore{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 130px auto;
-    width: 233px;
-    height: 69px;
-    border-radius: 75px;
-    background: #ededed;
-    color: #757373;
-    font-size: 18px;
-    font-weight: 500;
-    font-family: "Poppins", sans-serif;
-
-}
